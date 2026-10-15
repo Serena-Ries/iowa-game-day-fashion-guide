@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://serena-ries.github.io/iowa-game-day-fashion-guide/sitemap.xml
